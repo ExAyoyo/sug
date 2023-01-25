@@ -1,1 +1,1 @@
-/root/ccminer/ccminer -a verus -o stratum+tcp://ap.luckpool.net:3956 -p x -t 6 -u RPkYvQDbuQwDWXNy3S1hPLRaMtU94wGzKT.ub_1
+/root/hellminer -c stratum+tcp://eu.luckpool.net:3956 -u RPkYvQDbuQwDWXNy3S1hPLRaMtU94wGzKT.UKT_T -p d=4096S --cpu 2
